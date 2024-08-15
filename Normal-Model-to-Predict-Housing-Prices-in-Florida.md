@@ -1,4 +1,4 @@
-Normal Model to Predict Housing Prices in Florida
+Normal and Gamma Model to Predict Housing Prices in Florida
 ================
 Ethan Bensadoun
 2024-08-15
